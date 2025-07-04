@@ -59,13 +59,13 @@ Source file: [Agile-Manifesto-(RUS).archimate](Agile-Manifesto-(RUS).archimate) 
 
 ## Le manifeste Agile (Français)
 
-![Le Manifeste Agile](Le Manifeste Agile.png)
+![Le Manifeste Agile](Le-Manifeste-Agile.png)
 
 Source file: [Agile-Manifesto-(FRA).archimate](Agile-Manifesto-(FRA).archimate)
 
 ## 12 Principes du développement Agile (Français)
 
-![Les 12 Principes de Agile Software](Les 12 Principes de Agile Software.png)
+![Les 12 Principes de Agile Software](Les-12-Principes-de-Agile-Software.png)
 
 Source file: [Agile-Manifesto-(FRA).archimate](Agile-Manifesto-(FRA).archimate) (Même fichier pour les 2).
 
