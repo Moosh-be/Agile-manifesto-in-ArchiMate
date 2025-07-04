@@ -87,7 +87,7 @@
   </folder>
   <folder name="Relations" id="1834abd8-2fcc-435f-846f-5bb5c929df39" type="relations">
     <element xsi:type="archimate:ServingRelationship" id="2e214c4f-1dc3-49b1-9f21-2019a07386c2" source="fc43cec0-90d7-45ff-92c1-2f4789cc7e71" target="a1b39a05-8e32-4f67-869b-5b208381b5ec"/>
-    <element xsi:type="archimate:InfluenceRelationship" name="vient avec" id="b37e7786-86de-4a71-b6e4-d7d96d2ccdcf" source="80fc542a-0116-4503-8d7b-b2ca17251513" target="2b3629b5-b051-42a8-b032-7ca4e8c43d36"/>
+    <element xsi:type="archimate:InfluenceRelationship" name="come to" id="b37e7786-86de-4a71-b6e4-d7d96d2ccdcf" source="80fc542a-0116-4503-8d7b-b2ca17251513" target="2b3629b5-b051-42a8-b032-7ca4e8c43d36"/>
     <element xsi:type="archimate:ServingRelationship" id="03be5571-3fbd-4956-8f8e-c223b6c6e9b8" source="74922623-12f2-4c19-9270-221d2f5920e8" target="09297a62-c2e3-46c3-8f4a-8ead8625a466"/>
     <element xsi:type="archimate:AssignmentRelationship" id="9dc6eb3b-d80a-4778-b0b8-91327a3d74ba" source="00d4acfd-9da1-4d5c-80cc-2cf682725ddb" target="1a57452c-7c95-402a-bf1b-e2c4a710acea"/>
     <element xsi:type="archimate:CompositionRelationship" id="73ace2d3-573b-4f75-a209-bc915043b7a7" source="57aa40db-5d2c-4249-b9d6-0f9774080b76" target="a1b39a05-8e32-4f67-869b-5b208381b5ec"/>
